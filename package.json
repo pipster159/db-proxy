@@ -1,0 +1,17 @@
+{
+  "name": "db-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql2": "^3.1.2",
+    "pg": "^8.9.0",
+    "pip-core": "^1.0.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __tests__"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
